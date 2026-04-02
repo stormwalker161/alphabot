@@ -1,0 +1,5 @@
+{
+  "version": "1.3.0",
+  "notes": "Live console output every 30s, auto-restart after update, timezone fix, ML retrain persistence",
+  "url": "https://raw.githubusercontent.com/your-username/alphabot/main/AlphaBot_v1.3.0.zip"
+}

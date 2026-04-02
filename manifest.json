@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "Fixed market hours timezone bug — bot no longer stops trading 4 hours early",
-  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.3.1.zip"
+  "version": "1.3.2",
+  "notes": "Expanded scan universe to 238 stocks, watchlist increased to 50 positions",
+  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.3.2.zip"
 }

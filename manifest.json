@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notes": "Expanded scan universe to 238 stocks, watchlist increased to 50 positions",
-  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.3.2.zip"
+  "version": "1.3.3",
+  "notes": "Universe updates and it actually sells",
+  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.3.3.zip"
 }

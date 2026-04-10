@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "notes": "IntelligenceHub: macro regime (FRED), earnings risk (SEC EDGAR + yfinance), sentiment (news + StockTwits, no Reddit/auth required). Wires into engine.py for position sizing and confidence threshold adjustment.",
-  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.4.0.zip"
+  "url": "https://raw.githubusercontent.com/stormwalker161/alphabot/main/AlphaBot_v1.5.0.zip"
 }
